@@ -25,7 +25,7 @@ segmentação, com análises práticas em sistemas como Windows e Linux.
 > ⚠️ Após exportar sua linha do tempo do Miro como
 > `linha-do-tempo.jpeg`, coloque a imagem na mesma pasta deste arquivo.
 
-![Linha do Tempo dos Sistemas Operacionais](timeline.jpeg)
+![Linha do Tempo dos Sistemas Operacionais](timeline.jpg)
 
 ------------------------------------------------------------------------
 
