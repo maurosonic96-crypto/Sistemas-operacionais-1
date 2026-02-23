@@ -140,3 +140,4 @@ As páginas 1 a 13 estabelecem:
 
 Base conceitual para compreender processos, memória, escalonamento e
 sistemas de arquivos.
+https://github.com/maurosonic96-crypto/Sistemas-operacionais-1/blob/main/Aula%201/ChatGPT%20Image%2023%20de%20fev.%20de%202026%2C%2009_39_29.png
