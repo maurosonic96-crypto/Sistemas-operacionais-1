@@ -22,8 +22,6 @@ segmentação, com análises práticas em sistemas como Windows e Linux.
 
 ## 🕰️ Linha do Tempo Histórica dos Sistemas Operacionais
 
-> ⚠️ Após exportar sua linha do tempo do Miro como
-> `linha-do-tempo.jpeg`, coloque a imagem na mesma pasta deste arquivo.
 
 ![Linha do Tempo dos Sistemas Operacionais](timeline.jpg)
 
